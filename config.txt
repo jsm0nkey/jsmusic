@@ -3,7 +3,7 @@ token = NzM1NDE0MzExMjExNjMwNjQz.Xxf59w.BQWUGL3fPxuJoQ2BzEZKmyX0IYw
 
 
 
-owner = 676920254529536005
+owner = 286088294234718209
 
 
 prefix = "!"
